@@ -1,0 +1,16 @@
+fortune | cowsay -f daemon
+
+cowsay -f elephant hello ly
+
+cowsay hello ly
+
+aafire
+
+cmatrix ДњТыгъ
+
+xeyes
+
+banner
+
+
+
